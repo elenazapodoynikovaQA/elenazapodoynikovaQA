@@ -1,6 +1,7 @@
 ## Меня зовут Елена, я QA Engineer 👋 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-![elena2](https://github.com/user-attachments/assets/a2acdf1d-d69f-4305-976b-bba1137459a4)
+![elena23](https://github.com/user-attachments/assets/537f3ddf-789e-411e-95eb-f26796bfd1c7)
+
 
 ## ❗ Важные ссылки:
 - [Моя цифровая визитка](https://t.me/QAZapodoynikovaEV_bot);
