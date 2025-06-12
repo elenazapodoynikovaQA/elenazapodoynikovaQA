@@ -1,4 +1,4 @@
-## Меня зовут Елена, я QA Engineer 👋 ![cat-typing-24](https://github.com/user-attachments/assets/9355b496-8a4d-4e07-b46f-2d96d7ef61e3)
+## Меня зовут Елена, я QA Engineer 👋 ![cat-typing-24](https://github.com/user-attachments/assets/09422f1e-bd20-4f90-aeed-a3d28ea4fcd2)
 
 ![elena2](https://github.com/user-attachments/assets/a2acdf1d-d69f-4305-976b-bba1137459a4)
 
