@@ -3,7 +3,6 @@
 
 ## ❗ Важные ссылки:
 - [Моя цифровая визитка](https://t.me/QAZapodoynikovaEV_bot);
-- [Моё резюме QA engineer, Тестировщик на HH.ru]([https://yuzhno-sakhalinsk.hh.ru/resume/0b9d2f38ff0eeb512d0039ed1f3738666e5a45](https://yuzhno-sakhalinsk.hh.ru/resume/d64e13b0ff0f81b63b0039ed1f56776747324a);
 - [Мой сайт](https://elenazapodoynikovaqa.github.io/);
 
 ### 👩‍💻 Обо мне:
